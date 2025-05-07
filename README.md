@@ -2,8 +2,7 @@
 
 ## 💖 Sobre este repositório
 
-Este é um **repositório de estudo** que implementa um exemplo de chat básico em **Jetpack Compose**, conforme o tutorial oficial do Android.  
-Ele demonstra como criar uma lista rolável de mensagens, cada uma exibida num cartão com:
+Este é um **repositório de estudo** que implementa um exemplo de chat básico em **Jetpack Compose**, conforme o tutorial oficial do Android. Ele demonstra como criar uma lista rolável de mensagens, cada uma exibida num cartão com:
 
 - Avatar circular  
 - Autor da mensagem  
